@@ -1,5 +1,11 @@
 fastapi
 uvicorn
+<<<<<<< HEAD
 SQLAlchemy
 pydantic
 fastapi-pagination
+=======
+sqlalchemy
+pydantic
+fastapi-pagination
+>>>>>>> d77197988fe1ecbbfc0cf9d0b601c92433871280
